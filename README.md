@@ -5,3 +5,5 @@ The data is about whether a client has payment difficulties and 'previous_applic
 CUSTOMER CHURN- Customer churn is a classic supervised learning technique for classification using feature selection, feature engineering, and various classification machine learning algorithms such as logistic regression, decision trees, random forests, etc.
 
 CUSTOMER SEGMENTATION- The customer segmentation case study makes use of unsupervised learning techniques where RFM analysis is used to segment customers based on similar characteristics using K-Means Clustering
+
+HR ANALYTICS- HR Analytics encompasses the intricacies of exploratory data analysis along with statistical tests including hypothesis testing to draw inferences about important data points.
